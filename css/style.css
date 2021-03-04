@@ -8,7 +8,7 @@
 body {
     background: url(../img/background.jpg) no-repeat center top;
 
-  background-color: #f2f2f2;
+  background-color: #222222;
   font-family: 'EB Garamond', serif;
   font-weight: 300;
   font-size: 16px;
@@ -116,7 +116,7 @@ hr {
 /* Footer Wrap */
 
 #f {
-    background: rgba(255,255,255,0);
+  background: rgba(255,255,255,0);
   padding-top: 70px;
   padding-bottom: 70px;
   text-align: center
@@ -435,6 +435,6 @@ hr {
 
 /* images */
 .img-listing {
-    opacity: 0.191;
+    opacity: 0.382;
     margin: 48px;
 }
