@@ -414,7 +414,7 @@ hr {
 /* Copyrights */
 
 #copyrights {
-  background: #222222;
+  background: rgba(0,0,0,0.25);
   padding: 20px 0;
   text-align: center;
   color: #fff;
