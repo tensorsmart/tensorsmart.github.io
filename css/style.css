@@ -209,6 +209,7 @@ hr {
 }
 
 .menu a>i {
+  float: left;
   display: inline-block;
   vertical-align: middle;
   text-align: left;
